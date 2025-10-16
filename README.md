@@ -5,4 +5,4 @@ Esse projeto foi feito em equipe, nós utilizamos a linguagem **C**. O sistema o
 * **Armazenamento e Consulta de Dados:** Manipulação de arquivo `.txt`
 * **Menu Interativo:** Menu no terminal que fornece as funcionalidades do sistema
 
-→ **Status**: Concluído
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
